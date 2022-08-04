@@ -1,11 +1,3 @@
-/**
-   * Recode By XaviorOfc
-   * Contact Me on wa.me/6281511480762
-   * Follow 
-   * Subs Yt XaviorOfc
-   * Jangan Diubah Author Nya
-*/
-
 require('./config')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
 const fs = require('fs')
