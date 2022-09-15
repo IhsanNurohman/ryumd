@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://i.postimg.cc/s1Fh2Rgd/IMG20211026185809-00.jpg" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://i.postimg.cc/Pq3snXSx/IMG-20220915-085943.jpg" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## RUN TERMUX
