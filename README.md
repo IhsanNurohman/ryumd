@@ -32,5 +32,5 @@ $ node .
 
 
 ## Donasi
-* [`Saweria`](https://saweria.co/nanang13) 
+* [`Saweria`](https://saweria.co/IhsanNurohman) 
 
