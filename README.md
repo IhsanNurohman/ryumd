@@ -11,9 +11,9 @@ apt install nodejs -y
 apt install ffmpeg -y
 termux-setup-storage
 cd /sdcard
-cp -r Lolichu-Bot
+cp -r Ryumd
 cd
-cd Lolichu-Bot
+cd Ryumd
 npm install
 npm start
 ```
